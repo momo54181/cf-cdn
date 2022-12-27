@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "https://a.jkisme.ml/$1"}
+  ]
+}
+
