@@ -1,7 +1,7 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://www.youtube.com/$1"}
+      {"src": "/(.*)","dest": "https://www.google.com.hk/$1"}
   ]
 }
 
