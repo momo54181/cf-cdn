@@ -1,7 +1,7 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "http://http://a.jkisme.ml.cdn.cloudflare.net/$1"}
+      {"src": "/(.*)","dest": "https://1.1.1.1/$1"}
   ]
 }
 
